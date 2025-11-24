@@ -1,6 +1,6 @@
 # Hi👋, I’m Chhavi Sharma 
 
-I am passionate about AI and Machine Learning, building intelligent and practical solutions. I enjoy collaborating on ML, computer vision, and data-driven projects and continually expanding my knowledge in deep learning, NLP, and AI agents.<br><br>Feel free to ask me about Python, AI/ML concepts, or project ideas.<br>Fun fact: I love turning challenging problems into creative solutions.
+I am passionate about AI and Machine Learning, building intelligent and practical solutions. I enjoy collaborating on ML, computer vision, and data-driven projects and continually expanding my knowledge in deep learning, NLP, and AI agents.<br><br>Feel free to ask me about Python, AI/ML concepts, or project ideas.<br>
 
 
 # 💻 Tech Stack:
